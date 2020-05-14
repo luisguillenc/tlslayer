@@ -1,0 +1,13 @@
+Conversation1
+
+tlsr1-fullpacket.bin            -> full packet with handshake clienthello
+tlsr1-hsk-clienthello.bin
+tlsr1-hsk-serverhello.bin
+tlsr1-hsk-certificate.bin
+tlsr1-hsk-serverkeyexchange.bin -> contiene 2 mensajes handshake
+tlsr1-ccs.bin
+tlsr1-hsk-clientkeyexchange.bin
+tlsr1-hsk-encrypted.bin         -> encrypted handshake
+tlsr1-appdata.bin               -> encrypted appdata
+tlsr1-alert.bin                 -> encrypted alert
+
